@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Steve Michael
+# Hi, I'm Steve Michael
 
 Welcome to my GitHub! I'm a curious and passionate BCA student exploring the world of technology and data. From coding logic in C++ to analyzing stock trends using Python, I enjoy building things that solve real problems.
 
