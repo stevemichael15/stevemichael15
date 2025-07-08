@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 - **Languages:** Python, C++, SQL, HTML/CSS, JavaScript  
 - **Frameworks:** Flask  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,Plotly
-- **Tools:** Git & GitHub, MySQL Workbench, VS Code, PyCharm, Power BI, Tableau
+- **Tools:** Git & GitHub, MySQL Workbench, VS Code, PyCharm, Power BI
 - **Currently Learning:** Deep Learning (Neural Networks, CNNs, RNNs)
 
 ---
