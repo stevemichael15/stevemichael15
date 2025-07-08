@@ -28,8 +28,12 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 ## 📫 Let's Connect!
 
 - 📧 Email: [stevemichael681@gmail.com](mailto:stevemichael681@gmail.com)  
-- 💼 LinkedIn: [steve-michael](https://www.linkedin.com/in/steve-michael-512666222)  
-- 🖥️ GitHub: [stevemichael15](https://github.com/stevemichael15)
+- 💼 LinkedIn: [Steve Michael](https://www.linkedin.com/in/steve-michael-512666222)  
+- 🖥️ GitHub: [stevemichael15](https://github.com/stevemichael15)  
+- 📊 Kaggle: [Netflix Data Analysis and Prediction Notebook](https://www.kaggle.com/code/steve92510/notebookf738d6c5c4)
+
+Feel free to reach out for collaborations, projects, or just a tech chat!
+
 
 ---
 
