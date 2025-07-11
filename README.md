@@ -24,23 +24,6 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 - **Currently Learning:** Deep Learning (Neural Networks, CNNs, RNNs)
 - 
 ---
-## ⚙️ Getting Started
-
-Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/TrendWise.git
-cd TrendWise
-
-Step 2: Set Up Virtual Environment
-python -m venv venv
-source venv/bin/activate
-Step 3: Install Dependencies
-pip install -r requirements.txt
-Step 4: Run the Flask App
-python main.py
-
-
 ## 📫 Let's Connect!
 
 - 📧 Email: [stevemichael681@gmail.com](mailto:stevemichael681@gmail.com)  
