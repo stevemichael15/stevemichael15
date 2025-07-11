@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn,Plotly
 - **Tools:** Git & GitHub, MySQL Workbench, VS Code, PyCharm, Power BI
 - **Currently Learning:** Deep Learning (Neural Networks, CNNs, RNNs)
-- 
 ---
 ## 📫 Let's Connect!
 
