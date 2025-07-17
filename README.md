@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 
 - 🎓 Currently pursuing **BCA**  
 - 🌱 Learning **Deep Learning** alongside my core Data Science curriculum  
-- 💻 I code in **Python** and **C++**, and I love working with **Flask**, **SQL**, and frontend tools  
+- 💻 I code in **Python** and **C++**, and I love working with **Flask**, **SQL**, and frontend tools
 - 📊 Practicing **Machine Learning** and **DSA** regularly  
 - 📈 Currently building a **Stock Prediction and Analysis** web application  
 - 🧠 Always eager to learn and implement something new!
