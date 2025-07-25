@@ -29,7 +29,8 @@ Welcome to my GitHub! I'm a curious and passionate BCA student exploring the wor
 - 💼 LinkedIn: [Steve Michael](https://www.linkedin.com/in/steve-michael-512666222)  
 - 🖥️ GitHub: [stevemichael15](https://github.com/stevemichael15)  
 - 📊 Kaggle: [steve92510](https://www.kaggle.com/steve92510)
-- 📊 trendwise: [steve92510](trendwise-1x5j.onrender.com)
+- 📊 trendwise: [steve92510](https://www.trendwise-1x5j.onrender.com)
+
 Feel free to reach out for collaborations, projects, or just a tech chat!
 
 
