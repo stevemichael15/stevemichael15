@@ -61,7 +61,7 @@ Machine Learning | Deep Learning | Generative AI | Data Science | Model Deployme
 - 💼 **LinkedIn:** [Steve Michael](https://www.linkedin.com/in/steve-michael-512666222)  
 - 🖥️ **GitHub:** [stevemichael15](https://github.com/stevemichael15)  
 - 📊 **Kaggle:** [steve92510](https://www.kaggle.com/steve92510)  
-- 🌐 **Portfolio:** [TrendWise](https://trendwise-1x5j.onrender.com)  
+- 🌐 **Portfolio:** [SmartChat AI](https://smartchat-ai-htrrkknjvomojpyhe4eyoa.streamlit.app/)  
 
 ---
 
